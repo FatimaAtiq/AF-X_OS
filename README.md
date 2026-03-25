@@ -10,7 +10,7 @@
 <b><i>Memory Management</i></b>
 <ul>Contiguous</ul>
 <ul>Non-Contiguous</ul>
-<b><i>I/O Management</i></b>
+<b><i>I/O Management</i></b><br><br>
 <b><i>Synchronization</i></b> 
 <ul>Binary Semaphores</ul>
 <dl>
